@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joaquin Aimonetti</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Golang**
-
 - 👨‍💻 All of my projects are available at [https://aimonetti-por.netlify.app/](https://aimonetti-por.netlify.app/)
 
 - 📫 How to reach me **Jaimonetti154@gmail.com**
